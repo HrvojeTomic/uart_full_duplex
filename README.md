@@ -98,7 +98,7 @@ The synthesis completed successfully with `uart_top` as the top-level module. Th
 
 Both FIFOs were synthesized into registers and logic, and no latch cells were reported. An earlier Yosys structural check reported **0 problems**.
 
-The complete synthesis statistics are in [`synthesis_summary.txt`](synthesis_summary.txt). The design has not been tested on an FPGA, so FPGA resource usage and timing have not been verified.
+The complete synthesis statistics are in [`synthesis_summary.txt`](docs/synthesis_summary.txt). The design has not been tested on an FPGA, so FPGA resource usage and timing have not been verified.
 
 ## What I learned / next steps
 
